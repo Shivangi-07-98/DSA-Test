@@ -18,4 +18,8 @@
 18. string compression
 19. toggle case
 20. string with difference of characters
-21. 
+21. matrix multiplication
+22. rotate by 90 degrees
+23. spiral display
+24. search in a sorted 2d array
+25. 
