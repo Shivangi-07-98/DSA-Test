@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class IMP_MatrixMultiplicationQ56 {
+public class Q21_IMP_MatrixMultiplication {
   public static void main(String[] args) throws Exception {
 
     Scanner scn = new Scanner(System.in);
