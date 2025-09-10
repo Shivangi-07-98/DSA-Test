@@ -1,6 +1,6 @@
-1. bubble sort
-2. selection sort
-3. insertion sort
+1. bubble sort n2
+2. selection sort n2
+3. insertion sort n2
 4. fib
 5. polynomial
 6. hfc using string and array

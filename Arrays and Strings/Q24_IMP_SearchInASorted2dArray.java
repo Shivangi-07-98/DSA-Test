@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class IMP_SearchInASorted2dArrayQ64 {
+public class Q24_IMP_SearchInASorted2dArray {
 
   public static void main(String[] args) throws Exception {
     // write your code here

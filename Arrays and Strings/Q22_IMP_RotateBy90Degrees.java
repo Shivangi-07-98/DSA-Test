@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class IMP_RotateBy90DegreesQ60 {
+public class Q22_IMP_RotateBy90Degrees {
 
   public static void main(String[] args) throws Exception {
 

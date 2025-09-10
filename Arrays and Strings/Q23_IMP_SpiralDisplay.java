@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class IMP_SpiralDisplayQ58 {
+public class Q23_IMP_SpiralDisplay {
   public static void main(String[] args) throws Exception {
     Scanner scn = new Scanner(System.in);
 
