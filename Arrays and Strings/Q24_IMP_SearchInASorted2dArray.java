@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-
 public class Q24_IMP_SearchInASorted2dArray {
 
   public static void main(String[] args) throws Exception {
@@ -13,6 +12,7 @@ public class Q24_IMP_SearchInASorted2dArray {
         a[i][j] = scn.nextInt();
       }
     }
+
     int x = scn.nextInt();
 
     int minr = 0;
@@ -33,5 +33,7 @@ public class Q24_IMP_SearchInASorted2dArray {
       }
     }
     System.out.println("Not Found");
+    
   }
+
 }

@@ -1,9 +1,7 @@
 import java.util.*;
+public class Q22_IMP_RotateBy90Degrees { // in clockwise
 
-public class Q22_IMP_RotateBy90Degrees {
-
-  public static void main(String[] args) throws Exception {
-
+  public static void main(String[] args) throws Exception { // two swap diagonal and vertical line
     Scanner scn = new Scanner(System.in);
     int n = scn.nextInt();
     int[][] arr = new int[n][n];
@@ -23,12 +21,9 @@ public class Q22_IMP_RotateBy90Degrees {
     }
 
     for (int i = 0; i < arr.length; i++) {
-      // why inside for loop - for while loop to access
-      // for(int j = 0; j < arr[0].length; j++){
       int left = 0;
       int right = arr[0].length - 1;
       while (left < right) {
-        // swap (arr, arr[i][left], arr[i][right]);
         int temp = arr[i][left];
         arr[i][left] = arr[i][right];
         arr[i][right] = temp;
@@ -36,18 +31,10 @@ public class Q22_IMP_RotateBy90Degrees {
         left++;
         right--;
       }
-      // }
     }
-
     display(arr);
 
   }
-
-  // public static void swap(int[][] arr, int a, int b){
-  // int temp = a;
-  // a = b;
-  // b = temp;
-  // }
 
   public static void display(int[][] arr) {
     for (int i = 0; i < arr.length; i++) {
