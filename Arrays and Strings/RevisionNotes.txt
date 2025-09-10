@@ -1,0 +1,48 @@
+println and \n => both means enter
+String name = scn.nextLine();
+
+-------------------------------------------
+0 is not a prime number
+0 aur 1 prime nahi hote.
+
+1 ke sirf ek hi factor hai (khud), do nahi.
+0 sabhi numbers se divide ho jata hai, isliye prime ki definition me fit nahi hota.
+Prime numbers hamesha 2 se start hote hain.
+
+prime number = Prime number jo 1 aur khud se hi divide hota hai.
+---------------------------------------------
+
+fibonacci = 0 1 1 2 3 5 8 13 21 34 55
+---------------------------------------------
+for rotate a number ques = So when we divide negative number, we divide normally (just like with positives) and apply the negative sign rule.
+
+(+)÷(+)=(+)
+(−)÷(+)=(−)
+(+)÷(−)=(−)
+(−)÷(−)=(+)
+
+-----------------------------------------------
+
+In prime factorization, we only need to check factors up to √n because by checking up to √n, we automatically get ALL factors
+This reduces complexity from O(n) to O(√n) - a massive optimization!
+
+The rule: If no factors found ≤ √n, the number is prime!
+
+------------------------------------------------------
+
+Arrays
+
+int [] arr = new int [5];
+System.out.print("*\t");
+System.out.print("\t");
+
+int pow = (1 << n); //2^n
+
+---------------------------------------------------------
+
+Strings
+
+System.out.println(s1.equals(s3)); // true
+equals first checks the stack if not equal than checks the content
+== just checks on stack and not the content
+

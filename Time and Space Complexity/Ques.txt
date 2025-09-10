@@ -1,0 +1,25 @@
+1. bubble sort
+2. selection sort
+3. insertion sort
+4. fib
+5. polynomial
+6. hfc using string and array
+7. sieve of eratosthenes (imp) 
+8. merge two sorted array
+9. check duplicate
+10. target sum pair
+11. target sum pair with binary search
+12. target sum triplet
+13. merge sort
+14. sort 01
+15. move 0's to end
+16. move 0's to front
+17. partition an array
+18. sort 012 (imp)
+19. sort lo hi
+20. quick select
+21. count sort
+22. radix sort
+23. sort dates
+24. quick sort
+25. 

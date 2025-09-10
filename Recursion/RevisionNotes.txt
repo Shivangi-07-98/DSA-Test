@@ -1,0 +1,12 @@
+int[] arr = {10, 20, 30}
+for(int num : arr) → num catches 10, then 20, then 30
+num is int, not int[]
+
+ArrayList<String> str = ["apple", "banana"]
+for(String fruit : str) → fruit catches "apple", then "banana"
+fruit is String, not ArrayList<String>
+
+The variable type in for-each loop must match the element type, not the collection type!
+
+-------------------------------------------------
+
