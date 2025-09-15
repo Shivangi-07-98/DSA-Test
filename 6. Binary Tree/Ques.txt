@@ -1,0 +1,20 @@
+1. construct
+2. display
+3. Size Sum Maximum Height of a bt
+4. level order linewise 4 approaches
+5. find in bt
+6. node to root path in bt
+7. print k levels down 
+8. Amazon print nodes k distance away 
+9. iterative pre post inorder traversals
+10. transform to left cloned tree
+11. transform to normal from left-cloned tree
+12. remove leaves in bt
+13. print single child nodes
+14. path to leaf from root in range
+15. diameter of a bt
+16. tilt of a bt
+17. is balanced tree
+18. is a binary search tree
+19. largest bst subtree
+20. 

@@ -1,0 +1,9 @@
+1. size, sum, max, min, find in bst
+2. replace with sum of larger
+3. lca of bst 
+4. print in range
+5. target sum pair in bst
+6. add node to bst
+7. remove node from bst
+8. target sum pair alternate approach
+9. 
