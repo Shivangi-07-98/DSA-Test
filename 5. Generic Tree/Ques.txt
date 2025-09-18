@@ -1,0 +1,24 @@
+1. level order, level order linewise, level order linewise zig zag, construct
+2. size, max, height of generic tree
+3. Traversals Pre Post Order
+4. serialize
+5. mirror a gt
+6. remove leaves in gt
+7. linearize a gt
+8. linearize efficient
+9. find in gt
+10. node to root path in gt
+11. lca
+12. distance between two nodes
+13. are gt similar
+14. are gt mirror in shape
+15. are gt symmetric
+16. predecessor and successor of an element
+17. multisolver
+18. second largest
+19. ceil and floor
+20. Kth largest
+21. iterative traversals
+22. node with maximum subtree sum
+23. diameter
+24. 
