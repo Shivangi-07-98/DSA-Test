@@ -9,7 +9,7 @@
 9. merge sort
 10. 
 11. K Reverse = google(imp) practice
-12. odd even 
+12. odd even
 13. 
 14. 
 15. 
